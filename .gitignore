@@ -1,0 +1,9 @@
+data_access/
+demo_die1x4_block1x4/
+demo_die2x2/
+test/result_2x2/
+test/result_die1x4_middle_block2_v/
+test/result_die1x4_middle_block2_h/
+test/result_fixed_aware_block/
+test/result_1x4/
+test/partition_for_die1x4_middle_block2.py
